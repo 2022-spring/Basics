@@ -1,0 +1,5 @@
+username : "johndoe"
+password : "secretPass01"
+inv_passwrd : "secret"
+url : "https://www.qa.myapp.com/login"
+#url : "https://www.uat.myapp.com/login"
